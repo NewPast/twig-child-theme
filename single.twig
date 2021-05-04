@@ -1,1 +1,9 @@
-
+{# single.twig #} 
+{% extends "main-file.twig" %} 
+{% block content %} 
+     <article> 
+         <h1>{{ post.title }}</h1> 
+         <img src="{{ post.thumbnail.src }}" alt="{{ post.thumbnail.alt }}" > 
+         <div class="article-body">{{ post.content }}</div> 
+     </article> 
+{% endblock %}
