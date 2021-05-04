@@ -1,1 +1,1 @@
-# twig-wordpress-child-theme
+# Twig WordPress Child Theme
