@@ -1,4 +1,4 @@
 <div dir=rtl >
-
-# Twig WordPress Child Theme
+  
+{: #id}# Twig WordPress Child Theme
 </div>
