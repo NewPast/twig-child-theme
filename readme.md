@@ -1,6 +1,5 @@
 <div dir=rtl >
 
-{dir=ltr}
-
+{: dir="ltr"}
 # Twig WordPress Child Theme
 </div>
